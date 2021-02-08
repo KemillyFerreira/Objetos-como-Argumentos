@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\bin\Debug\netcoreapp3.1\Objetos como Argumentos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Objetos como Argumentos\obj\Debug\netcoreapp3.1\Objetos como Argumentos.genruntimeconfig.cache
